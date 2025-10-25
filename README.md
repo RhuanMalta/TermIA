@@ -1,4 +1,4 @@
-# TermIAa# TermIA — Entrega Parcial (Semanas 1–3) 
+# TermIA — Entrega Parcial (Semanas 1–3) 
 
 ---
 
