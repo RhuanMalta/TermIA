@@ -20,7 +20,7 @@ A implementação foi feita em **Python 3.10+** utilizando o pacote **PLY (Pytho
 ```
 termia_parcial/
 ├─ grammar.ebnf           # Definição formal da linguagem (gramática EBNF)
-├─ README_parcial.md      # Documento descritivo (este arquivo)
+├─ README.md              # Documento descritivo (este arquivo)
 ├─ termia/
 │  ├─ __init__.py
 │  ├─ ast.py              # Estrutura da Árvore Sintática Abstrata (AST)
